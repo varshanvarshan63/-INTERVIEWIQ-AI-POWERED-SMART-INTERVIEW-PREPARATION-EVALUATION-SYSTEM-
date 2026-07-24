@@ -2,7 +2,7 @@
 const { useState, useRef, useEffect, useCallback } = React;
 
 /* ═══════════════════════════════════════
-   DESIGN SYSTEM — Netflix Premium
+   DESIGN SYSTEM — Netflix Premium.
 ═══════════════════════════════════════ */
 const C = {
   bg:       "#050505",
